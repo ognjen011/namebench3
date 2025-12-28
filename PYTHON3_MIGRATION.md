@@ -238,7 +238,7 @@ None at this time.
 4. **Offline Charts**: Charts work without external API dependency
 5. **Future-proof**: Compatible with modern libraries and tools
 
-## Author Notes
+## Notes
 This migration was completed in December 2025. The original namebench was written for Python 2.4-2.6 and has been successfully updated to work with Python 3.6+.
 
 All functionality has been preserved, with the addition of improved chart generation using matplotlib instead of the deprecated Google Chart API.
