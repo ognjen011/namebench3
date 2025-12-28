@@ -1,4 +1,4 @@
-This very useful tool i used often ended up not being compatible with python3. Some main chnages to make it run on python3 
+This very useful tool i used often ended up not being compatible with python3. Main chnages to make it run on python3 
 
 ## Migration Summary
 - **60+ files** converted from Python 2 to Python 3
