@@ -5,7 +5,7 @@ This very useful tool i used often ended up not being compatible with python3. M
 - **All print statements** converted to functions
 - **All imports** updated for Python 3
 - **All exception handling** updated to Python 3 syntax
-- **DNS library** API changes handled
+- **DNS library** API changes
 - **Chart generation** completely rewritten with matplotlib
 - **Version** updated to 2.0-py3
 
