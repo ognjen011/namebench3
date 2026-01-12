@@ -11,18 +11,6 @@ This document outlines all changes made to migrate namebench from Python 2 to Py
 
 ## Major Changes
 
-### 1. Print Statements → Print Functions
-Converted all `print` statements to `print()` functions throughout the codebase.
-
-**Files affected**: All Python files in the project
-```python
-# Before
-print "Hello"
-
-# After
-print("Hello")
-```
-
 ### 2. Import Statement Updates
 Updated all renamed modules to their Python 3 equivalents:
 
